@@ -5,7 +5,7 @@
       
       <div class="col-sm-8 col-sm-offset-2 section-container-spacer">
         <div class="text-center">
-          <h1 class="h2">04 : Blogs</h1>
+          <h1 class="h2">05 : Blogs</h1>
           <p>Here I Descirbed My Blogs Base On My Experience</p>
         </div>
       </div>
@@ -52,15 +52,6 @@
 </div>
 
 
-<footer class="footer-container text-center">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        <p>© UNTITLED | Website created with <a href="http://www.mashup-template.com/" title="Create website with free html template">Mashup Template</a>/<a href="https://www.unsplash.com/" title="Beautiful Free Images">Unsplash</a></p>
-      </div>
-    </div>
-  </div>
-</footer>
 
     <!-- modal for dicription -->
     <div class="modal fade" id="read_more" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">

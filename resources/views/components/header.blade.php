@@ -46,9 +46,9 @@
           <li><a href="/index" title="">01 : Home</a></li>
           <li><a href="/works" title="">02 : Projects</a></li>
           <li><a href="{{ route('about') }}" title="" target="_blank" rel="noopener noreferrer">03 : About me</a></li>
-          <li><a href="{{route('blog')}}" title="">04 : Blogs</a></li>
-          <li><a href="/contact" title="">05 : Contact</a></li>
-          <li><a href="{{ route('service') }}" title="">06 : Services</a></li>
+          <li><a href="{{ route('service') }}" title="">04 : Services</a></li>
+          <li><a href="{{route('blog')}}" title="">05 : Blogs</a></li>
+          <li><a href="/contact" title="">06 : Contact</a></li>
         </ul>
       </div> 
     </div>
